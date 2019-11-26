@@ -1,2 +1,0 @@
-# safnaautoparts
-auto parts
